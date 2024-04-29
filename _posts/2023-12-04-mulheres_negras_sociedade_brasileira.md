@@ -7,7 +7,7 @@ top: 1
 
 ---
 
-![banner](assets/images/banners/7.png)
+![banner](https://github.com/Lorenaps/aya/blob/main/assets/images/banners/7.png)
 
 
 > "Cadê meu celular? Eu vou ligar prum oito zero  
